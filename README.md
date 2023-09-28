@@ -23,5 +23,3 @@ I am a cybersecurity professional with experience in both software support and p
 <img align="left" alt="GitHub" width="64px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
 <img align="left" alt="GitHub" width="62px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <br />
-
-#
