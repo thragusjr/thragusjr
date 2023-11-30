@@ -1,6 +1,6 @@
 # 💻 Ethan Page
 
-**`Cybersecurity Specialist`**
+**`Systems Engineer II`**
 
 Ethan Page is an IT professional with experience in both systems engineering and cybersecurity. The content shown on this Github represents the products of my growth and learning within the ever-growing information technology landscape.
 
