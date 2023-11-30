@@ -2,7 +2,7 @@
 
 **`Cybersecurity Specialist`**
 
-I am a cybersecurity professional with experience in both software support and penetration testing. The content shown on this Github represents the products of my growth and learning within the ever-growing landscape of cybersecurity topics. I am currently open for work, seeking a position in the Denver, CO area.
+Ethan Page is a cybersecurity professional with experience in both software support and penetration testing. The content shown on this Github represents the products of my growth and learning within the ever-growing landscape of cybersecurity topics. I am currently open for work, seeking a position in the Denver, CO area.
 
 ---
 ## 🌐 Additional Links:
