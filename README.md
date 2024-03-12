@@ -2,7 +2,7 @@
 
 **`Systems Engineer II`**
 
-Ethan Page is an IT professional with experience in both systems engineering and cybersecurity. The content shown on this Github represents the products of my growth and learning within the ever-growing information technology landscape.
+Ethan Page is an IT professional with experience in application support, penetration testing and systems engineering. The content shown on this Github is the product of my learning within the ever-changing information technology landscape.
 
 ---
 ## 🌐 Additional Links:
