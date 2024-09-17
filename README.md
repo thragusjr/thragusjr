@@ -2,7 +2,7 @@
 
 **`Systems Engineer II`**
 
-IT professional with experience in systems engineering, pentesting, and application support.
+IT professional with experience in Systems Engineering, Pentesting, and Application Support.
 
 ---
 ## 🌐 Additional Links:
