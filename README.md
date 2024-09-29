@@ -1,14 +1,14 @@
-# 💻 **`Systems Engineer II`**
+# 💻 
+
+**`Systems Engineer II`**
 
 Systems Engineering | Pentesting | Application Support
 
 ---
-## 🌐 Additional Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ethanmpage/)
 [![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)<br>
+
 ---
-# 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
