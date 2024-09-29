@@ -1,4 +1,3 @@
-# 💻 
 **`Systems Engineer II`**
 ---
 Systems Engineering | Pentesting | Application Support
