@@ -1,10 +1,9 @@
 # 💻 
-
 **`Systems Engineer II`**
-
 ---
 Systems Engineering | Pentesting | Application Support
 
+[![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)<br>
 ---
 
 <img align="left" alt="Linux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -19,7 +18,3 @@ Systems Engineering | Pentesting | Application Support
 <img align="left" alt="Git" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" />
 <br />
 
-
----
-
-[![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)<br>
