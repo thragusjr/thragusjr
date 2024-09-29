@@ -1,8 +1,6 @@
-# 💻 Ethan Page
+# 💻 **`Systems Engineer II`**
 
-**`Systems Engineer II`**
-
-IT professional with experience in Systems Engineering, Pentesting, and Application Support.
+Systems Engineering | Pentesting | Application Support
 
 ---
 ## 🌐 Additional Links:
