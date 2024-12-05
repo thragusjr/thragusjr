@@ -1,6 +1,8 @@
 **`Systems Engineer II`**
 ---
 
+[![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)<br>
+
 Systems Engineering | Cybersecurity
 ---
 
@@ -13,5 +15,3 @@ Systems Engineering | Cybersecurity
 <img align="left" alt="Kubernetes" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Rancher" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rancher/rancher-original.svg">
 <br><br><br><br>
-
-[![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)<br>
