@@ -1,7 +1,5 @@
 **`Systems Engineer II`**
-
 ---
-
 Systems Engineering | Cybersecurity
 ---
 [![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)
