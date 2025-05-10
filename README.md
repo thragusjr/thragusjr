@@ -1,6 +1,5 @@
 **`Systems Engineer II`**
 ---
-Engineer of cybersecurity, network & development systems.
 ---
 [![GitLab](https://img.shields.io/badge/GitLab-%231DA1F2.svg?style=for-the-badge&logo=GitLab&logoColor=orange)](https://gitlab.com/thragusjr)
 
